@@ -1,4 +1,4 @@
-const apiKey = '76b646687f288353e82eef694e81107e'
+const apiKey = ''
 const apiCall = 'https://api.openweathermap.org/data/2.5/weather?q='
 const weatherIcon = 'http://openweathermap.org/img/w/'
 
